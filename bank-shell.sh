@@ -15,7 +15,7 @@ echo "Select your transaction type"
 echo "Withdrwal"
 echo "Check account balance"
 else
-echo "Sorry incorrect pin: please try again!! "
+echo "Engr. Richard made a change!! "
 
 fi
 bal=20000
